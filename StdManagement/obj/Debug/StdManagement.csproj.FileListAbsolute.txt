@@ -1,0 +1,14 @@
+C:\Users\duong\source\repos\StdManagement\StdManagement\bin\Debug\StdManagement.exe.config
+C:\Users\duong\source\repos\StdManagement\StdManagement\bin\Debug\StdManagement.exe
+C:\Users\duong\source\repos\StdManagement\StdManagement\bin\Debug\StdManagement.pdb
+C:\Users\duong\source\repos\StdManagement\StdManagement\bin\Debug\MySql.Data.dll
+C:\Users\duong\source\repos\StdManagement\StdManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\duong\source\repos\StdManagement\StdManagement\bin\Debug\MySql.Data.xml
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.csprojAssemblyReference.cache
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.Form1.resources
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.Properties.Resources.resources
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.csproj.GenerateResource.cache
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.csproj.CoreCompileInputs.cache
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.csproj.CopyComplete
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.exe
+C:\Users\duong\source\repos\StdManagement\StdManagement\obj\Debug\StdManagement.pdb
